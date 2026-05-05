@@ -300,7 +300,7 @@ const About = () => {
                   />
 
                   {/* Image Section */}
-                  <div className="relative h-64 w-full overflow-hidden">
+                  <div className="relative aspect-[4/5] sm:h-64 w-full overflow-hidden">
                     <Image
                       src={b.portrait}
                       alt={b.name}
