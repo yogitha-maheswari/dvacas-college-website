@@ -1,6 +1,6 @@
 "use client";
 
-import Faculty from "@/pages/Faculty";
+import Faculty from "@/views/Faculty";
 
 export default function FacultyPage() {
   return <Faculty />;

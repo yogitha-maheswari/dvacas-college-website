@@ -1,6 +1,6 @@
 "use client";
 
-import Placements from "@/pages/Placements";
+import Placements from "@/views/Placements";
 
 export default function PlacementsPage() {
   return <Placements />;

@@ -1,6 +1,6 @@
 "use client";
 
-import Courses from "@/pages/Courses";
+import Courses from "@/views/Courses";
 
 export default function CoursesCategoryPage() {
   return <Courses />;

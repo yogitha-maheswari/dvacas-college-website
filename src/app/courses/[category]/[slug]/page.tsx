@@ -1,6 +1,6 @@
 "use client";
 
-import CourseDetailPage from "@/pages/CourseDetail";
+import CourseDetailPage from "@/views/CourseDetail";
 
 type PageProps = {
   params: Promise<{ category: string; slug: string }>;

@@ -1,6 +1,6 @@
 "use client";
 
-import Campus from "@/pages/Campus";
+import Campus from "@/views/Campus";
 
 export default function CampusPage() {
   return <Campus />;
